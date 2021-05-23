@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Julio Machine and Junior Cloud Assosiate 
+- 👋 Hi, I’m Julio Machine and I'm a Junior Cloud Assosiate 
 - 👀 I’m interested in Cloud Computing, IT Sopport, Software Development and Data Analysis Projects
-- 🌱 I’m currently learning AZure, AWS and Python
+- 🌱 I’m currently learning Azure, AWS and Python
 - 💞️ I’m looking to collaborate on hands-on-experiace for any cloud development projects
 - 📫 you can reach me at Juliomachine2@gmail.com 
 
